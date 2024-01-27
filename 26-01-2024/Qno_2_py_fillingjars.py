@@ -68,4 +68,4 @@ operations = [list(map(int, input().split())) for _ in range(m)]
 
  
 result = solve(n, operations)
-print(result)￼Enter
+print(result)
