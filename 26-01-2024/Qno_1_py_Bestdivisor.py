@@ -49,4 +49,4 @@ n = int(input())
 
  
 result = best_divisor(n)
-print(result)￼Enter
+print(result)
